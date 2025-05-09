@@ -19,6 +19,17 @@ componentes = [
     {"id": 6, "nombre": "Fuente 750W", "tipo": "PSU", "precio": 90, "stock": 20},
     {"id": 7, "nombre": "Gabinete ATX", "tipo": "Case", "precio": 70, "stock": 18},
     {"id": 8, "nombre": "Monitor 27\"", "tipo": "Periférico", "precio": 250, "stock": 10},
+    {"id": 41, "nombre": "Tarsjeta Gráfica RTX 3070", "tipo": "GPU", "precio": 550, "stock": 8},
+    {"id": 55, "nombre": "Plasca Base ASUS", "tipo": "Motherboard", "precio": 180, "stock": 12},
+    {"id": 66, "nombre": "Fue}nte 750W", "tipo": "PSU", "precio": 90, "stock": 20},
+    {"id": 37, "nombre": "Gab{inete ATX", "tipo": "Case", "precio": 70, "stock": 18},
+    {"id": 58, "nombre": "Moñnitor 27\"", "tipo": "Periférico", "precio": 250, "stock": 10},
+    {"id": 441, "nombre": "Tlarjeta Gráfica RTX 3070", "tipo": "GPU", "precio": 550, "stock": 8},
+    {"id": 355, "nombre": "Plhaca Base ASUS", "tipo": "Motherboard", "precio": 180, "stock": 12},
+    {"id": 166, "nombre": "Fuegnte 750W", "tipo": "PSU", "precio": 90, "stock": 20},
+    {"id": 23537, "nombre": "Gafbinete ATX", "tipo": "Case", "precio": 70, "stock": 18},
+    {"id": 558, "nombre": "Modnitor 27\"", "tipo": "Periférico", "precio": 250, "stock": 10}
+    
 ]
 
 tipos_componentes = ["Todos", "CPU", "RAM", "Almacenamiento", "GPU", "Motherboard", "PSU", "Case", "Periférico"]
